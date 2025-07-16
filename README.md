@@ -45,12 +45,12 @@ To run the project locally:
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 good-boy/
 ├── index.html
 ├── style.css
 ├── script.js
-\`\`\`
+```
 
 ## 📄 License
 
